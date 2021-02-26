@@ -1,0 +1,1 @@
+{"ast":null,"code":"//showing the products page\nexport { default } from './index';","map":{"version":3,"sources":["C:/projects/AdvancedReact/frontend/pages/products/[page].js"],"names":["default"],"mappings":"AAAA;AACA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["//showing the products page\r\nexport { default } from './index';\r\n\r\n"]},"metadata":{},"sourceType":"module"}
