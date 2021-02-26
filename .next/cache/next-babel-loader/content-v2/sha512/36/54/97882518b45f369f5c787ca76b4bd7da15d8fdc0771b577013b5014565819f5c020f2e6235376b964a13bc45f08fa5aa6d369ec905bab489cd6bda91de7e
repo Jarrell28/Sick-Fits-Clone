@@ -1,0 +1,1 @@
+{"ast":null,"code":"//showing the products page\nexport { default } from './index';","map":null,"metadata":{},"sourceType":"module"}

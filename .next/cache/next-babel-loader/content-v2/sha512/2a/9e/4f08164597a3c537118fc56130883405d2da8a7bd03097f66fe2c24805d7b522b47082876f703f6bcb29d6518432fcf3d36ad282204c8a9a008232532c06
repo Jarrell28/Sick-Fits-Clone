@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport ProductsPage from './products'; //Home page also rendering Products Page\n\nexport default function IndexPage() {\n  return /*#__PURE__*/_jsx(ProductsPage, {});\n}","map":null,"metadata":{},"sourceType":"module"}

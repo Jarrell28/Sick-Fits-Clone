@@ -1,0 +1,1 @@
+{"ast":null,"code":"// This is client side config only - don't put anything in here that shouldn't be public!\nexport const endpoint = `http://localhost:3000/api/graphql`;\nexport const prodEndpoint = `https://sick-fitsclone.herokuapp.com/api/graphql`;\nexport const perPage = 4;","map":null,"metadata":{},"sourceType":"module"}

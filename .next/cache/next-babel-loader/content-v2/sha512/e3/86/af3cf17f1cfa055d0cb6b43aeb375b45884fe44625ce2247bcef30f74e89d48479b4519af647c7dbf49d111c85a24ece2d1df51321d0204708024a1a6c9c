@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst Supreme = styled.h3.withConfig({\n  displayName: \"Supreme\",\n  componentId: \"xv30qb-0\"\n})([\"background:var(--red);color:white;display:inline-block;padding:4px 5px;transform:skew(-3deg);margin:0;font-size:4rem;\"]);\nexport default Supreme;","map":null,"metadata":{},"sourceType":"module"}

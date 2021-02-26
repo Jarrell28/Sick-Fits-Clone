@@ -1,0 +1,1 @@
+{"ast":null,"code":"//Helper function to calculate the total price of cart\nexport default function calcTotalPrice(cart) {\n  return cart.reduce(function (tally, cartItem) {\n    if (!cartItem.product) return tally;\n    return tally + cartItem.quantity * cartItem.product.price;\n  }, 0);\n}","map":null,"metadata":{},"sourceType":"module"}
